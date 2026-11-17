@@ -1,0 +1,23 @@
+# Android build artifacts, proprietary firmware and private captures
+*.ko
+*.img
+*.bin
+*.fw
+*.apk
+*.apks
+*.ota
+*.zip
+*.tar
+*.tar.gz
+*.ts
+*.log
+*.dump
+*.key
+*.pem
+.env
+private/
+backups/
+firmware/
+vendor-binaries/
+captures/
+secrets/
