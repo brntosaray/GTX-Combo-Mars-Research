@@ -1,5 +1,8 @@
 # GTMedia GTX Combo — Mars (Android 9) Community Research
 
+**Community:** [Discussions](https://github.com/brntosaray/GTX-Combo-Mars-Research/discussions) · [Welcome topic (ready to publish)](docs/COMMUNITY_WELCOME.md) · [Issues](https://github.com/brntosaray/GTX-Combo-Mars-Research/issues)
+
+
 **Independent community documentation • GTMedia GTX Combo • Amlogic S905X3 • Android 9 / Mars firmware**
 
 > **Status as of 17 November 2026:** Historical operator-reported fixes exist for DVB-T/T2 reception, Bluetooth/IR remote input and reported signal-quality display. Power-management issues remain unresolved. This project is **not an official GTMedia release**, an OTA package, or a universal repair kit.
